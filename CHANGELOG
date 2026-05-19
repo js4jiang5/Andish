@@ -1,0 +1,5 @@
+v1.0.0
+- Andish first version
+- daily monitor android devices and record battery health, cycle counts, temperature, etc.
+- add heat alert function
+- add battery protect threshold control
